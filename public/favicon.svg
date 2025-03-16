@@ -1,5 +1,1 @@
-
-<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="40" height="40" rx="8" fill="currentColor" />
-  <path d="M20 10L30 30H10L20 10Z" fill="white" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-shopping-cart h-6 w-6 text-primary"><circle cx="8" cy="21" r="1" stroke="#18181B" fill="none" stroke-width="2px"></circle><circle cx="19" cy="21" r="1" stroke="#18181B" fill="none" stroke-width="2px"></circle><path d="M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.12" stroke="#18181B" fill="none" stroke-width="2px"></path></svg>
