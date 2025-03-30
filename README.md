@@ -132,47 +132,36 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/postcss.config.js'>postcss.config.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/tsconfig.node.json'>tsconfig.node.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/package-lock.json'>package-lock.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/tsconfig.json'>tsconfig.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/tsconfig.app.json'>tsconfig.app.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/package.json'>package.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/vite.config.ts'>vite.config.ts</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/index.html'>index.html</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/components.json'>components.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/tailwind.config.ts'>tailwind.config.ts</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/eslint.config.js'>eslint.config.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
 		</blockquote>
@@ -183,19 +172,15 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/main.tsx'>main.tsx</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/index.css'>index.css</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/App.tsx'>App.tsx</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/vite-env.d.ts'>vite-env.d.ts</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
 			<details>
@@ -204,7 +189,6 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/contexts/ComparisonContext.tsx'>ComparisonContext.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -215,7 +199,6 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/lib/utils.ts'>utils.ts</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -229,11 +212,9 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/integrations/supabase/types.ts'>types.ts</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/integrations/supabase/client.ts'>client.ts</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -246,59 +227,45 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/PriceHistoryChart.tsx'>PriceHistoryChart.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ProductCard.tsx'>ProductCard.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/Footer.tsx'>Footer.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/CamelPriceChart.tsx'>CamelPriceChart.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ProductSearch.tsx'>ProductSearch.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/DashboardSidebar.tsx'>DashboardSidebar.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/Hero.tsx'>Hero.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/CompareButton.tsx'>CompareButton.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/Navbar.tsx'>Navbar.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/RecentlyViewed.tsx'>RecentlyViewed.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/Features.tsx'>Features.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ProductChatbot.tsx'>ProductChatbot.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/CompareNavItem.tsx'>CompareNavItem.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/SentimentAnalysis.tsx'>SentimentAnalysis.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
 					<details>
@@ -307,199 +274,150 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/context-menu.tsx'>context-menu.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/toaster.tsx'>toaster.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/accordion.tsx'>accordion.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/alert-dialog.tsx'>alert-dialog.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/radio-group.tsx'>radio-group.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/checkbox.tsx'>checkbox.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/input-otp.tsx'>input-otp.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/sheet.tsx'>sheet.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/progress.tsx'>progress.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/badge.tsx'>badge.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/breadcrumb.tsx'>breadcrumb.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/sidebar.tsx'>sidebar.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/pagination.tsx'>pagination.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/label.tsx'>label.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/scroll-area.tsx'>scroll-area.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/input.tsx'>input.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/textarea.tsx'>textarea.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/toast.tsx'>toast.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/separator.tsx'>separator.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/toggle-group.tsx'>toggle-group.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/command.tsx'>command.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/popover.tsx'>popover.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/slider.tsx'>slider.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/form.tsx'>form.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/select.tsx'>select.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/button.tsx'>button.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/drawer.tsx'>drawer.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/toggle.tsx'>toggle.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/dialog.tsx'>dialog.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/alert.tsx'>alert.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/carousel.tsx'>carousel.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/navigation-menu.tsx'>navigation-menu.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/table.tsx'>table.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/tabs.tsx'>tabs.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/skeleton.tsx'>skeleton.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/use-toast.ts'>use-toast.ts</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/switch.tsx'>switch.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/dropdown-menu.tsx'>dropdown-menu.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/collapsible.tsx'>collapsible.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/menubar.tsx'>menubar.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/resizable.tsx'>resizable.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/chart.tsx'>chart.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/avatar.tsx'>avatar.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/hover-card.tsx'>hover-card.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/aspect-ratio.tsx'>aspect-ratio.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/calendar.tsx'>calendar.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/tooltip.tsx'>tooltip.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/sonner.tsx'>sonner.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/components/ui/card.tsx'>card.tsx</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -512,11 +430,9 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/hooks/use-toast.ts'>use-toast.ts</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/hooks/use-mobile.tsx'>use-mobile.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -527,31 +443,24 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/pages/Compare.tsx'>Compare.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/pages/NotFound.tsx'>NotFound.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/pages/Watchlist.tsx'>Watchlist.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/pages/Auth.tsx'>Auth.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/pages/Index.tsx'>Index.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/pages/ProductDetail.tsx'>ProductDetail.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/src/pages/Dashboard.tsx'>Dashboard.tsx</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -564,7 +473,6 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/supabase/config.toml'>config.toml</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
 			<details>
@@ -576,7 +484,6 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/supabase/functions/amazon-product-details/index.ts'>index.ts</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -587,7 +494,6 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/supabase/functions/keepa-price-history/index.ts'>index.ts</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -598,7 +504,6 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/supabase/functions/update-product-insights/index.ts'>index.ts</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -609,7 +514,6 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/supabase/functions/product-chatbot/index.ts'>index.ts</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -620,7 +524,6 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/supabase/functions/save-product/index.ts'>index.ts</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -631,7 +534,6 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/supabase/functions/product-sentiment-analysis/index.ts'>index.ts</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -642,7 +544,6 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/supabase/functions/check-price-alerts/index.ts'>index.ts</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -653,7 +554,6 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/supabase/functions/daily-price-tracking/index.ts'>index.ts</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -664,7 +564,6 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/supabase/functions/gemini-insights/index.ts'>index.ts</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -675,7 +574,6 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 							<table>
 							<tr>
 								<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/supabase/functions/amazon-product-search/index.ts'>index.ts</a></b></td>
-								<td><code>❯ REPLACE-ME</code></td>
 							</tr>
 							</table>
 						</blockquote>
@@ -688,11 +586,9 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 					<table>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/supabase/migrations/20240621100000_add_chat_stored_procedures.sql'>20240621100000_add_chat_stored_procedures.sql</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					<tr>
 						<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/supabase/migrations/20240620213000_add_chat_tables.sql'>20240620213000_add_chat_tables.sql</a></b></td>
-						<td><code>❯ REPLACE-ME</code></td>
 					</tr>
 					</table>
 				</blockquote>
@@ -705,7 +601,6 @@ SmartCart AI is an AI-powered shopping assistant designed to help users track Am
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/yk0007/SmartCartAI/blob/master/public/_redirects'>_redirects</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
 			</tr>
 			</table>
 		</blockquote>
